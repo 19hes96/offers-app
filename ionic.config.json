@@ -1,0 +1,7 @@
+{
+  "name": "offers-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
